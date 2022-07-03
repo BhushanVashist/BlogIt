@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "LOve",
+      "body": "Love your work.",
+      "author": "Ricky",
+      "id": 1
+    },
+    {
+      "title": "Life",
+      "body": "Live life to its fullest.",
+      "author": "Rick",
+      "id": 2
+    },
+    {
+      "title": "Science",
+      "body": "Science is the magic.",
+      "author": "Ricky",
+      "id": 3
+    }
+  ]
+}
