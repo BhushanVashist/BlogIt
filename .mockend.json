@@ -3,6 +3,6 @@
     "title" : { "string": {} },
     "body": { "string": {} },
     "author": { "string": {} },
-    "id": { "int": {} }
+    "id": { "int": {"min": 0, "max": 100000 } }
   }
 }
